@@ -1,0 +1,22 @@
+{
+  "name": "smartiles",
+  "version": "0.0.1",
+  "description": "smart tile creating and management",
+  "main": "smartiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zackyy1/smartiles.git"
+  },
+  "keywords": [
+    "tiles"
+  ],
+  "author": "Zackyy1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zackyy1/smartiles/issues"
+  },
+  "homepage": "https://github.com/Zackyy1/smartiles#readme"
+}
